@@ -1,0 +1,27 @@
+[
+    {
+        "nomeProduto": "Zeppelin Yoga Pant",
+        "tamanho": "33",
+        "cor": "Green",
+        "quantidade": 4
+    },
+    
+    {
+        "nomeProduto": "Livingston All-Purpose Tight",
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Kratos Gym Pant",
+        "tamanho": "34",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Supernova Sport Pant",
+        "tamanho": "33",
+        "cor": "Gray",
+        "quantidade": 8
+    }
+]
